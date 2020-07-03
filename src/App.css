@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.counter-header{
+  font-size: 50px;
+}
+
+.counter-value{
+  margin-top: 125px;
+  font-size: 50px;
+}
+
+.counter-btn{
+  font-size: 20px;
+  margin-top: 50px;
+}
+
+.increment{
+  margin-right: 10px;
+  padding: 10px 15px;
+}
+
+.decrement{
+  margin-left: 10px;
+  padding: 10px 18px;
+}
